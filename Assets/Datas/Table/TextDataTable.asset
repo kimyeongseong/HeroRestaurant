@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553724d9642f2974aa0b3472b119aa68, type: 3}
+  m_Name: TextDataTable
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: table
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[TextData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: SLOT_EXIST_MESSAGE
+    - Name: 
+      Entry: 7
+      Data: TextData, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: 'Day : ${day}Day
+
+        Mony : ${money}
+
+        Infinity Mode : X'
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: SLOT_NOT_EXIST_MESSAGE
+    - Name: 
+      Entry: 7
+      Data: TextData, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Data Does Not Exist
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: SLOT_SELECT_MESSAGE
+    - Name: 
+      Entry: 7
+      Data: TextData, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: ${slotNumber} Slot Selected
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: START_ADVENTURE
+    - Name: 
+      Entry: 7
+      Data: TextData, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Start To Adventure
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: MONEY
+    - Name: 
+      Entry: 7
+      Data: TextData, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: 'Money : ${money}'
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

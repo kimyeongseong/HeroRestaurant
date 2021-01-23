@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3823b17bc4058e44b6eba16276e20ae, type: 3}
+  m_Name: UnitySceneMemoData
+  m_EditorClassIdentifier: 
+  Scene:
+  - Guid: ef16fbe57b078594ab08945d8a56f9e8
+    Memo:
+    - Date: 2019/4/4 23:3
+      Memo: 
+      Label: 0
+      Tex: 0
+      ShowAtScene: 0
+      LocalIdentifierInFile: 650966308
+      SceneGuid: ef16fbe57b078594ab08945d8a56f9e8
+      Name: EventSystem
+    - Date: 2019/4/4 23:3
+      Memo: 
+      Label: 0
+      Tex: 0
+      ShowAtScene: 0
+      LocalIdentifierInFile: 1176929275
+      SceneGuid: ef16fbe57b078594ab08945d8a56f9e8
+      Name: Canvas
+    - Date: 2019/4/4 23:3
+      Memo: 321
+      Label: 0
+      Tex: 0
+      ShowAtScene: 0
+      LocalIdentifierInFile: 1955467372
+      SceneGuid: ef16fbe57b078594ab08945d8a56f9e8
+      Name: Main Camera
+    - Date: 2019/4/4 23:4
+      Memo: 
+      Label: 0
+      Tex: 0
+      ShowAtScene: 0
+      LocalIdentifierInFile: 2071281620
+      SceneGuid: ef16fbe57b078594ab08945d8a56f9e8
+      Name: Game Mode
